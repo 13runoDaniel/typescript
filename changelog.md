@@ -16,3 +16,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   Add arquivo orientacao_objeto.ts
 -   Add arquivo interface.ts
 -   Add arquivo dom.ts
+-   Add arquivo exercicio.ts
